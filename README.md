@@ -11,5 +11,7 @@ Tableau Public
 Libraries and Software: 
 
 Pandas - Data cleaning
+
 WorldCloud, Matplotlib, Re, Collections, Nltk - Word cloud generation
+
 Tableau Public - Dashboard and visual creation
