@@ -15,3 +15,9 @@ Pandas - Data cleaning
 WorldCloud, Matplotlib, Re, Collections, Nltk - Word cloud generation
 
 Tableau Public - Dashboard and visual creation
+
+
+Data source: (https://www.kaggle.com/datasets/asaniczka/public-opinion-on-climate-change-updated-daily)
+
+
+Link to dashboard: https://public.tableau.com/app/profile/jake.hallows3443/viz/Attempt2_17511912382880/WorkingDashboard
